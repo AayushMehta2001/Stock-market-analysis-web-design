@@ -1,0 +1,80 @@
+.right-container {
+    height: 100%;
+    width: 100%;
+}
+
+.info {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.title {
+    color: purple;
+}
+
+.all-list{
+    padding: 1rem;
+}
+
+.checklist{
+    height: 4.6rem;
+    width: 100%;
+    margin: 5px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    text-align: center;
+    color: grey;
+}
+
+.stock-price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.stock-price > span{
+    font-size: 20px;
+    background-color: purple;
+}
+
+.stock-price > h3 > span{
+    font-size: 20px;
+    color: #66ff00
+}
+
+.text-center > span {
+    font-size: 20px;
+}
+
+.checklist > span{
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+}
+
+.avail{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 40px 0;
+    opacity: 0.8;
+}
+
+.avail > ul{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.avail > ul > li{
+    margin-right: 5rem;
+}
+
+.csdl{
+    font-size: 15px;
+    margin: 1px 0;
+}
+
+.avail > ul{
+    font-size: 18px;
+}

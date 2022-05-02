@@ -1,0 +1,48 @@
+.left-container{
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar{
+    padding: 1rem 0;
+    width: 100%;
+    background-color: #c8c8c8;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.rating-form{
+    margin-top: 1rem;
+    padding: 2rem 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.pro_only{
+    width: 5rem;
+    margin: 15px 0 0 15px;
+}
+
+.submit-form{
+    border: 0.5px dashed #2c2c2c
+
+}
+
+.list {
+    border: 0;
+    margin: 0.6rem 0;
+    background-color: transparent;
+    color:#525252;
+    border-radius: 0px !important;
+    font-size: 25px;
+    
+}
+
+.active{
+    background-color: white !important;
+    color: black !important;
+    padding: 15px;
+    border-left: 5px solid rgb(100, 2, 149) !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-size: 25px;
+}
